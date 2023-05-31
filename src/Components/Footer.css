@@ -1,0 +1,12 @@
+ footer {
+    background-color:black;
+    padding: 20px 0;
+    text-align: center;
+    color:aliceblue;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
